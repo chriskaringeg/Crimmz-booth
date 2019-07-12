@@ -26,7 +26,7 @@ $ pip install django==1.11
 $ sudo apt-get install postgresql postgresql-contrib libpq-dev
 
 ## Installation
-- To access this application on your command line, you need to clone it git clone  https://github.com/chriskaringeg/CRIMMZAWWARDS.git
+- To access this application on your command line, you need to clone it git clone  https://github.com/chriskaringeg/Crimmz-booth.git
 
 - Create a requirements.txt in the root folder and copy the requirements above.
 
